@@ -5,6 +5,8 @@ import * as io from 'socket.io-client';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
+
+  
 })
 export class AppComponent {
   title = 'platform';
