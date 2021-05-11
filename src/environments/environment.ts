@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  base_uri: 'http://localhost:3000/api',
+  base_uri: 'http://192.168.100.154:3000/api',
   save_uploaded_file: '/media/saveuploadedmediainfo',
   filestackAPI: 'A7dL8mkNqRwmsg0gvBji6z'
 };
