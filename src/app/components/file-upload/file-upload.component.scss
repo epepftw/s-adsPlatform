@@ -1,0 +1,17 @@
+.up-file{
+    margin: auto;
+    text-align: center;
+}
+
+button{
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid #333;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.2sng ;
+}
+button:hover{
+    color: cornflowerblue;
+    background-color: #fff;
+}
